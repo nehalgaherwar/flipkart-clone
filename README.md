@@ -37,9 +37,9 @@ Unsplash Images
 CDN (Bootstrap)
 
 --------
-📁 Project Structure
-Flipkart-Clone/
-│
+# 📁 Project Structure                                              
+Flipkart-Clone/                                        
+│                                                                                
 ├── index.html        # Main HTML file                                
 ├── styles.css        # Custom CSS styles                                  
 ├── script.js         # JavaScript file                                                
