@@ -46,14 +46,14 @@ Flipkart-Clone/
 ├── README.md         # Project documentation                                    
 
 ------
-🚀 Getting Started
-1️⃣ Clone the Repository
-git clone https:https://github.com/nehalgaherwar/flipkart-clone.git
+# 🚀 Getting Started                                        
+1️⃣ Clone the Repository                                                        
+git clone https:https://github.com/nehalgaherwar/flipkart-clone.git                                        
 
-2️⃣ Open the Project
-cd flipkart-clone
+2️⃣ Open the Project                                                
+cd flipkart-clone                                      
 
-3️⃣ Run the Project
+3️⃣ Run the Project                                                  
 
-Just open index.html in your browser.
+Just open index.html in your browser.                        
 -----
