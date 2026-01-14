@@ -48,7 +48,7 @@ Flipkart-Clone/
 ------
 🚀 Getting Started
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/flipkart-clone.git
+git clone https:https://github.com/nehalgaherwar/flipkart-clone.git
 
 2️⃣ Open the Project
 cd flipkart-clone
