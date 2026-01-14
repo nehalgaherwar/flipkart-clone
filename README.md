@@ -57,3 +57,30 @@ cd flipkart-clone
 
 Just open index.html in your browser.                        
 -----
+
+# ⚠️ Disclaimer                                                              
+
+This project is for educational purposes only.                                  
+All brand names, logos, and images belong to their respective owners.                              
+
+--------------------
+
+# 🙌 Future Improvements                          
+
+🔐 Login & Authentication                                                      
+
+🛒 Functional Cart System                                          
+
+🔎 Product Search Logic                                            
+
+📦 Backend Integration                                  
+
+💳 Payment Gateway (Demo)                                          
+
+--------
+
+# 👨‍💻 Author                                
+
+Nehal Gaherwar                                      
+🌱 Learning Web Development                              
+🚀 Aspiring Software Developer                          
