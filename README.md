@@ -1,4 +1,4 @@
-# flipkart-clone
+# 🛒 Flipkart-clone
 🛒 Flipkart Clone (Frontend)
 
 A simple Flipkart Clone built using HTML, CSS, Bootstrap 5, and JavaScript.
