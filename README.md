@@ -4,7 +4,8 @@
 A simple Flipkart Clone built using HTML, CSS, Bootstrap 5, and JavaScript.
 This project replicates the basic UI of Flipkart, including header, navigation, carousel banners, product cards, and footer.
 
-📌 Features
+----------
+# 📌 Features
 
 🔍 Search bar for products
 
@@ -19,3 +20,29 @@ This project replicates the basic UI of Flipkart, including header, navigation, 
 🛍️ Add to Cart buttons (UI only)
 
 📱 Fully responsive using Bootstrap 5
+
+-------
+# 🛠️ Technologies Used
+
+HTML5
+
+CSS3
+
+Bootstrap 5
+
+JavaScript
+
+Unsplash Images
+
+CDN (Bootstrap)
+
+--------
+📁 Project Structure
+Flipkart-Clone/
+│
+├── index.html        # Main HTML file                                
+├── styles.css        # Custom CSS styles                                  
+├── script.js         # JavaScript file                                                
+├── README.md         # Project documentation                                    
+
+------
